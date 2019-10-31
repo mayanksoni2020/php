@@ -1,3 +1,3 @@
 <?php
-    echo "This is my heroku test thffgfghsfsgf";
+    echo "This is my heroku test";
 ?>
